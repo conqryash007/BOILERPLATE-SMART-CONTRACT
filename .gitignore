@@ -1,5 +1,6 @@
 node_modules
 ENV_KEYS.js
+# uncomment .env file
 # .env
 coverage
 coverage.json
