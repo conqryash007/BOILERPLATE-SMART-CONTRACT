@@ -1,0 +1,19 @@
+{
+  "name": "smart-contract-boiler-plate",
+  "version": "1.0.0",
+  "description": "My personal boiler plate for holisitic allround smart contract development and testing/optimising",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hh": "npx hardhat"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "hardhat": "^2.12.4"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
